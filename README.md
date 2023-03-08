@@ -1,4 +1,4 @@
-# TricountPython
+# Tricount Python
 My take on a tricount in python.
 
 I did this program as a way for me to learn how python works.(work in progress, have a few idea for improvemnts)
