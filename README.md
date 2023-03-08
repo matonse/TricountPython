@@ -28,8 +28,6 @@ Fuel Carol  paye 66 a Jane Carol  Jhon
 ```
 
 the code will output :
-
-for the following input :
 ```
 Voici les sommes totales à envoyer / recevoir
 Jhon doit recevoir :  123.83
