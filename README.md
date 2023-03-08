@@ -1,5 +1,6 @@
 # TricountPython
-My take on a tricount in python
+My take on a tricount in python.
+I did this program as a way for me to learn how python works.
 (work in progress, have a few idea for improvemnts)
 The code reads transaction data from a text file, calculates the amount owed or to be received by each individual, and then resolves any outstanding debts between them.
 
