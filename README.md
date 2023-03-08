@@ -7,7 +7,7 @@ The code reads transaction data from a text file, calculates the amount owed or 
 
 The input file should be formatted with each line representing a single transaction in the following format: 
 
-**WhatWasPaid ByWho Sum to ToWhom1 ToWhom2 ToWhom... ToWhomN**
+**WhatWasPaid ByWho pays Sum to ToWhom1 ToWhom2 ToWhom... ToWhomN**
 
 ## Here's how the code works :
 + The code asks to give the path to the file containing the transactions
