@@ -1,0 +1,21 @@
+Hiking John paye 50 a Sarah Bob David John
+Cycling John paye 150 a Sarah Bob David John
+Photography Bob paye 14 a Sarah Bob David John
+Sculpting Bob paye 66 a Sarah Bob David John
+Cooking Bob paye 3.50 a Sarah
+GamingFlorent Bob paye 4.90 a John
+DancingAller Sarah paye 30 a Sarah Bob John David
+Writing2 Sarah paye 16 a Sarah Bob John David
+MusicPriv John paye 42 a David
+Grocery John paye 18 a Sarah Bob David John
+BirthdayHugo John paye 33 a Bob David John
+PicnicHugo Sarah paye 7.15 a John
+Meeting Sarah paye 10 a Bob David John Sarah
+Breakfast Sarah paye 9.60 a Bob David John
+CheeseTart Bob paye 64 a Bob David John Sarah
+ShoppingCom John paye 24 a Bob David John Sarah
+Interview2 Sarah paye 50 a Sarah Bob David John
+CarWash Sarah paye 89.10 a Sarah Bob David John
+BakeryRat John paye 5 a Sarah Bob David John
+Convenience David paye 13 a Sarah Bob David John
+Convenience David paye 25 a Sarah Bob David John
