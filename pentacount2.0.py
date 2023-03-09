@@ -1,6 +1,6 @@
 #Indiquer endroit ou se trouve transactions
 '''
-format fichier : RaisonEnAttaché Payeur Somme Beneficaire1 Beneficiaire2 Beneficiaire3
+format fichier : RaisonEnAttaché Paid Payeur Somme to Beneficaire1 Beneficiaire2 Beneficiaire3
 '''
 print("#######################################################################")
 FileNameTransactions = input("Ou se trouve le fichier transactions.txt ? (Lien du fichier complet .txt) : " )
